@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/chapter2/src/main/resources/https-files/
