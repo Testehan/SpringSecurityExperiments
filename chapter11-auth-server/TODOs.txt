@@ -1,0 +1,6 @@
+TODO EXERCISE Change the applications from this hands-on chapter to validate
+    the requests between the business logic server and the authentication server:
+    – By using a symmetric key
+    – By using an asymmetric key pair
+    To solve the exercise, you might find it useful to review the example we worked on in
+    section 9.2.
