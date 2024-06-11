@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.testehan.springsecurity</groupId>
-    <artifactId>chapter16-secondEdition</artifactId>
+    <artifactId>chapter17</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
