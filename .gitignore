@@ -32,3 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 /chapter2/src/main/resources/https-files/
+/chapter12-oauth2-sso/src/main/resources/secrets.properties
+/chapter16-secondEdition-oauth2-login/src/main/resources/secrets.properties
