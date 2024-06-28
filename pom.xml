@@ -27,6 +27,18 @@
 		<module>chapter8</module>
         <module>chapter9</module>
 		<module>chapter10</module>
+		<module>chapter11-auth-server</module>
+		<module>chapter11-business-server</module>
+		<module>chapter12-oauth2-sso</module>
+		<module>chapter13</module>
+		<module>chapter14-secondEdition</module>
+		<module>chapter15-secondEdition</module>
+		<module>chapter16-secondEdition-oauth2-login</module>
+		<module>chapter16-secondEdition-oauth2-client</module>
+		<module>chapter16</module>
+		<module>chapter17</module>
+		<module>chapter18</module>
+		<module>chapter19</module>
 	</modules>
 
 	<properties>
